@@ -249,3 +249,34 @@
   color: #FFFFFF;
   margin-top: 10px;
 }
+
+.paragrafo-grafico {
+  display: flex;
+  margin-left: 160px;
+}
+
+.paragrafo-grafico p{
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration-line: underline;
+  width: 235px;
+  margin-top: 40px;
+  margin-right: 40px;
+}
+
+.paragrafo-grafico img {
+  margin-left: 80px;
+}
+
+.sublink-grafico {
+  display: flex;
+  justify-content: end;
+  margin-right: 160px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
