@@ -221,3 +221,31 @@
   margin-right: 20px;
   margin-top: 10px;
 }
+
+.title-grafico {
+  width: 480px;
+  height: 82;
+  margin-left: 160px;
+  margin-top: 74px;
+}
+
+.title-grafico h2 {
+  font-family: 'Lora', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 41px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+.title-grafico h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  margin-top: 10px;
+}
